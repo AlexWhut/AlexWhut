@@ -31,6 +31,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/AlexWhut/AlexWhut/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://github.com/AlexWhut/AlexWhut/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
