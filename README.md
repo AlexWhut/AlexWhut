@@ -31,5 +31,7 @@
 <br clear="both">
 
 <img src="https://github.com/AlexWhut/AlexWhut/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alexwhut/alexwhut/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/alexwhut/output/snake.svg) 
 
-###
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
