@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alex and I'm a UX/UI Designer and Full Stack Developer, from Colombia.</h2>
+<h2 align="left">Hi 👋! My name is Alex and I'm a UX/UI Designer and Full Stack Developer, from Colombia CO.</h2>
 
 ###
 
