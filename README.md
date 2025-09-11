@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alex and I'm a Software Developer | IT & Networking Professional, from Colombia CO.</h2>
+<h2 align="left">Hi 👋! My name is Alex and I'm a Software Developer | IT & Networking Professional </h2>
 
 ###
 
