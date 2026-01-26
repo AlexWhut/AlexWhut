@@ -30,8 +30,8 @@
 ---
 
 <div style="display: flex; gap: 20px;"> 
-<img src="https://github-readme-stats.vercel.app/api?username=ceeciimg&show_icons=true&theme=radical" alt="GitHub Stats"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceeciimg&layout=compact&theme=radical" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api?username=alexwhut&show_icons=true&theme=radical" alt="GitHub Stats"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexwhut&layout=compact&theme=radical" alt="Top Langs">
 </div> 
 <h3>Contact</h3>
 
