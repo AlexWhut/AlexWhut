@@ -29,7 +29,13 @@
 
 ---
 
+<div style="display: flex; gap: 20px;"> 
+<img src="https://github-readme-stats.vercel.app/api?username=ceeciimg&show_icons=true&theme=radical" alt="GitHub Stats"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceeciimg&layout=compact&theme=radical" alt="Top Langs">
+</div> 
 <h3>Contact</h3>
+
+---
 
 <p>
   <a href="mailto:whutcontactoes@gmail.com">Email</a> |
